@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dimitraangelidou
 - 👀 I’m interested in finding the best talents
-- 💞️ I’m looking to collaborate with the most genius software engineers
 - 📫 How to reach me : https://www.linkedin.com/in/dimitra-angelidou-71537350/
 
 <!---
